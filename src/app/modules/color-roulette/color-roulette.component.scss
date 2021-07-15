@@ -1,0 +1,21 @@
+
+
+
+.canvas-container {
+    border: 1px solid black;
+}
+
+
+    input {
+        padding: 10px 15px;
+        border: none;
+        background-color: green;
+        text-transform: capitalize;
+
+        color: white;
+        border-radius: 5px;
+
+        &:hover {
+            opacity: 0.9;
+        }
+    }
